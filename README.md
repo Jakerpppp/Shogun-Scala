@@ -1,6 +1,7 @@
 # Shogun Game in Scala
 
 Welcome to the Shogun Game implemented in Scala!
+- Made in December 2023
 
 ## Overview
 
